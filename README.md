@@ -4,8 +4,8 @@
 ## Database present
 - cooking
 
-# [Records present in Database:] (src/system/)
-- [admin_dir] (src/)
+# [Records present in Database:](src/system/)
+- admin_dir
 - commentbar
 - full_recipy
 - post_rating
